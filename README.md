@@ -4,7 +4,7 @@ A window-based application using Java Swing for managing movies.
 As a client, you could see list of movies, you could add a movies in your favorites to see later perhaps. If you already watched the movies, you could mark it down.
 As an admin user you could execute CRUD operations and all operations like a client.
 
-The application is designed based on the MVC model. Controller layer is implemented in the Repositories directory with movie DAO(data access object) and user DAO. Model layer is implemented in Model directory adn GUI directory contains all Swing frames which interact to users.
+The application is designed based on the MVC model. Controller layer is implemented in the Repositories directory with movie DAO(data access object) and user DAO. Model layer is implemented in Model directory adn GUI directory contains all Swing frames which interacting to users.
 
 ## To run the application locally
 
